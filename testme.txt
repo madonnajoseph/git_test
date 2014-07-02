@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testme testagain againagain1 branch1 branch2
-=======
-testme testagain againagain1 branch1 branch2 branch1_test
->>>>>>> origin/branch_git_test
+branch3 in branch2
